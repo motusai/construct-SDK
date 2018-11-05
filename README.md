@@ -1,1 +1,1 @@
-Basic instructions on how to build an advertisement plugon in Construct with Motus platform.
+Basic instructions on how to build an advertisement plugin in Construct with Motus platform.
